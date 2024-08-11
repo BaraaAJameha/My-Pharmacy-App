@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "My-New-Pharmacy-branchName",
+            "cwd": "My-New-Pharmacy-branchName",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "My-New-Pharmacy-branchName (profile mode)",
+            "cwd": "My-New-Pharmacy-branchName",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "My-New-Pharmacy-branchName (release mode)",
+            "cwd": "My-New-Pharmacy-branchName",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
