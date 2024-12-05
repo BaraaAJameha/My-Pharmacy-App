@@ -18,11 +18,10 @@ Welcome to My Pharmacy App, is a mobile app designed to enhance patient care and
 - View and maintain a comprehensive record of past medical events and treatments.
 - Track previous prescriptions, diagnoses, and health conditions.
 - Enable better decision-making with a clear overview of patient history.
-
-
-### Pill Reminder
-- Reminders for medication schedules.
-- Health status monitoring and progress tracking.
+### Pill Reminder  
+- Set up customizable reminders for medication schedules.  
+- Receive notifications to take medicines on time.  
+- Ensure consistent adherence to prescribed treatments.  
 
 ## Technologies Used
 
