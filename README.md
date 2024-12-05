@@ -8,10 +8,11 @@ Welcome to My Pharmacy App, is a mobile app designed to enhance patient care and
 - Access emergency contact information quickly.  
 - Enable direct communication for prescription refills or medical advice.  
 
-### Search
-- Search functionality to quickly find medicines relevant to coursework.
-- Detailed information on drug usage, side effects, and interactions.
 
+### Smart Search (Camera or Manual)  
+- Search for medicines by manually entering their name or scanning labels using the camera.  
+- Quickly identify medicines with accurate text recognition from packaging or prescriptions.  
+- Save time and reduce errors with an intuitive search experience.  
 
 ### Medical History
 - View and maintain a comprehensive record of past medical events and treatments.
