@@ -3,9 +3,10 @@ Welcome to My Pharmacy App, is a mobile app designed to enhance patient care and
 
 ## Features
 
-### Contact 
--
--
+### Contact  
+- Easily connect with healthcare providers and pharmacies for inquiries or support.  
+- Access emergency contact information quickly.  
+- Enable direct communication for prescription refills or medical advice.  
 
 ### Search
 - Search functionality to quickly find medicines relevant to coursework.
