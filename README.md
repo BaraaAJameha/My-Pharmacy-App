@@ -30,6 +30,4 @@ Welcome to My Pharmacy App, is a mobile app designed to enhance patient care and
 - **Database**: Cloud Firestore / SQLite (depending on use case)
 - **Authentication**: Firebase Authentication for secure user access
 
-
-
 ![pharmacyApp](https://github.com/user-attachments/assets/ec04fbc2-cdfe-4e77-9cb4-872add9b67da)
