@@ -1,7 +1,7 @@
-# My Pharmacy App
+ # 📱My Pharmacy App
 Welcome to My Pharmacy App, is a mobile app designed to enhance patient care and promote health awareness. It provides tools to administer medications effectively, monitor health status, and access medical information conveniently. Additionally, it serves as a valuable assistant for pharmacy students, helping them obtain detailed information about medicines covered in their courses.
 
-## Features
+## ⭐Features
 
 ### Contact  
 - Easily connect with healthcare providers and pharmacies for inquiries or support.  
@@ -23,7 +23,7 @@ Welcome to My Pharmacy App, is a mobile app designed to enhance patient care and
 - Receive notifications to take medicines on time.  
 - Ensure consistent adherence to prescribed treatments.  
 
-## Technologies Used
+## 🚀Technologies Used
 
 - **Frontend**: Flutter (for a smooth cross-platform experience)
 - **Backend**: Firebase 
